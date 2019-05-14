@@ -113,15 +113,15 @@
           "_styles": {
             "H1": {
               "color": "#000000",
-              "text-align": "right",
+              "text-align": "center",
               "font-size": "36px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "P": {
               "color": "#000000",
-              "font-size": "16px",
-              "text-align": "right",
+              "font-size": "23px",
+              "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
