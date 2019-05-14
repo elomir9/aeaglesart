@@ -29,10 +29,10 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "color": "#ffffff",
             "hamburgerColor": "#000000"
