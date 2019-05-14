@@ -34,3 +34,6 @@
 #msg-box5-5 .mbr-article {
   color: #ffffff;
 }
+#msg-box5-5 .mbr-article P {
+  text-align: left;
+}

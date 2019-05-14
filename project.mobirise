@@ -103,7 +103,7 @@
             "overlayOpacity": 0.5
           },
           "title": "A PRIMEIRA IMPRESSÃO É AQUE FICA!",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "text": "Apresentar-se bem e fazer com que o cliente tenha uma lembrança positiva de você ou da sua empresa, pode te ajudar a aumentar consideravelmente as suas vendas. Fazendo com que ele tenha acesso fácil às suas informações de contato, acaba sendo crucial para fechar negócios de forma imediata.<br>Ainda mais quando a referência feita é à vida profissional.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD AGORA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SAIBA MAIS</a>",
           "_tags": [
             "Layout"
@@ -137,13 +137,16 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
             }
           },
           "_params": {
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -177,9 +180,9 @@
               "loop": false
             }
           },
-          "title": "VIDEO EMBED",
+          "title": "Cartão de Visita Digital e Interativ",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "text": "<p>É uma das novas formas de disponibilizar as suas informações de forma fácil, eficiente e 100% ecológica – em formato PDF, através do seu aparelho móvel. Por ser online, existe a possibilidade de inserir links de redirecionamento para o seu site ou para as suas redes sociais, por exemplo.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Layout"
