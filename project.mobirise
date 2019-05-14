@@ -120,7 +120,7 @@
             },
             "P": {
               "color": "#000000",
-              "font-size": "14px",
+              "font-size": "16px",
               "text-align": "right",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
