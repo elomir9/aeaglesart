@@ -15,7 +15,7 @@
     "noImageResize": "",
     "siteUrl": "undefined",
     "google-analytics": "",
-    "uniqCompNum": 26,
+    "uniqCompNum": 32,
     "versionPublish": "4.9.7"
   },
   "pages": {
@@ -90,7 +90,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fundo-2-eagles-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/modelo-1-fundo-2000x1335.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -98,7 +98,7 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -112,15 +112,15 @@
           "_anchor": "header1-4",
           "_styles": {
             "H1": {
-              "color": "#000000",
+              "color": "#ffffff",
               "text-align": "center",
               "font-size": "36px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "P": {
-              "color": "#000000",
-              "font-size": "22px",
+              "color": "#ffffff",
+              "font-size": "21px",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
@@ -239,6 +239,26 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-t"
         }
       ]
     }
