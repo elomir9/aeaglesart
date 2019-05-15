@@ -87,7 +87,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/fundo-1-eagles-2000x1335.jpg",
@@ -130,7 +130,8 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -139,7 +140,7 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_params": {
@@ -152,7 +153,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#3c3c3c",
@@ -160,11 +161,11 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.8"
           },
-          "headerAlign": "left",
+          "headerAlign": "center",
           "media": {
             "image": {
               "class": "mbr-figure__img",
@@ -180,7 +181,7 @@
               "loop": false
             }
           },
-          "title": "Cartão de Visita Digital e Interativ",
+          "title": "Cartão de Visita Digital e Interativo",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>É uma das novas formas de disponibilizar as suas informações de forma fácil, eficiente e 100% ecológica – em formato PDF, através do seu aparelho móvel. Por ser online, existe a possibilidade de inserir links de redirecionamento para o seu site ou para as suas redes sociais, por exemplo.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
