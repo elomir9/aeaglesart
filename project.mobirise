@@ -15,7 +15,7 @@
     "noImageResize": "",
     "siteUrl": "undefined",
     "google-analytics": "",
-    "uniqCompNum": 17,
+    "uniqCompNum": 26,
     "versionPublish": "4.9.7"
   },
   "pages": {
@@ -34,7 +34,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
@@ -60,7 +60,7 @@
               "font-size": "15px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">INICÍO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-5\">VÍDEO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-8\">CONTATO</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICÍO</a></li> ",
           "logo": {
             "image": {
               "active": true,
@@ -90,7 +90,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fundo-1-eagles-2000x1335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fundo-2-eagles-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -120,7 +120,7 @@
             },
             "P": {
               "color": "#000000",
-              "font-size": "23px",
+              "font-size": "22px",
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
