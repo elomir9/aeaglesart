@@ -33,7 +33,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
@@ -57,14 +57,14 @@
               "color": "#000000"
             },
             ".mbr-brand__name a": {
-              "font-size": "15px"
+              "font-size": "10px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">INICÍO</a></li> ",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/aguia-1-branco-png-96x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-sem-dizeres-106x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Eagles Art",
