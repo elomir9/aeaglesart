@@ -100,7 +100,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.7"
           },
           "title": "A PRIMEIRA IMPRESSÃO É AQUE FICA!",
           "text": "Apresentar-se bem e fazer com que o cliente tenha uma lembrança positiva de você ou da sua empresa, pode te ajudar a aumentar consideravelmente as suas vendas. Fazendo com que ele tenha acesso fácil às suas informações de contato, acaba sendo crucial para fechar negócios de forma imediata.<br>Ainda mais quando a referência feita é à vida profissional.<br>",
