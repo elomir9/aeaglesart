@@ -90,7 +90,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/modelo-1-fundo-2000x1335.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fundo-1-eagles-2000x1335.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
